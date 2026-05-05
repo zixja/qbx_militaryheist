@@ -1,4 +1,4 @@
-# qbx_militaryheist
+# qbx_militaryheist WIP
 
 QBox military base heist resource with staged guard waves, military vehicle reinforcements, loot crates, police alerts, cooldowns, and skippable next-round timers after waves are cleared.
 
